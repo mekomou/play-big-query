@@ -1,3 +1,3 @@
 # play-big-query
 
-## example of implementing a big query job with Play Framework and Akka
+## example of implementing a BigQuery job with Play Framework and Akka
